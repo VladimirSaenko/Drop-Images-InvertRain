@@ -1,3 +1,3 @@
-# Drop-Images-Rain
+# Drop-Images-InvertRain
  
 Сайт, прародитель которого является сайт Crazy-Balls-or-Images-Drop. Главная фича-инвертированный дождь из картинок, падающий/летящий в верх
