@@ -45,5 +45,3 @@ function dropImage(){
 }
 
 setInterval(dropImage, 50);
-
-
