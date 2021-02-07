@@ -5,7 +5,7 @@
 https://vladimirsaenko.github.io/Portfolio-2/sites/site-16-2/Drop-Image-Rain/index.html
 
 
-Основа для сайта {
+На основе сайта... {
 
   https://github.com/VladimirSaenko/Crazy-Balls-or-Images-Drop
   
