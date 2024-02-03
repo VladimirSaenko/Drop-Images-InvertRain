@@ -1,6 +1,6 @@
 # Drop-Images-InvertRain
  
-## Инвертированный дождь из случайных изображений | Inverted rain from random images
+## Inverted rain from random images
 
 ![img-portfolio](https://user-images.githubusercontent.com/56477695/150163941-e641901e-20d4-4342-9597-5356770aa0cc.jpeg)
 
